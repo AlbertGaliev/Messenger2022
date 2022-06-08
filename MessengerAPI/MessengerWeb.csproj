@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>MessengerWeb</AssemblyName>
+    <RootNamespace>MessengerWeb</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\" />
+    <Folder Include="Models\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+</Project>
